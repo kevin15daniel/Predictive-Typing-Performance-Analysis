@@ -1,4 +1,5 @@
-# Predictive-Typing-Performance-Analysis
+# Predictive Typing Performance Analysis
+
 A 'Predictive Typing Performance Analysis' is a project focused on developing and deploying a machine learning model to predict typing speed and accuracy based on the dataset. By leveraging advanced techniques and algorithms such as linear regression (optional: decision trees and neural networks), this project aims to accurately forecast typing performance metrics, enabling users to identify areas for improvement and track their progress over time.
 
 More Info:
