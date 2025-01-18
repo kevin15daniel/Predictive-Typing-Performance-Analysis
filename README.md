@@ -8,4 +8,4 @@ More Info:
 
 • Resources: (1.) Python programming language; (2.) Pandas and NumPy for data manipulation; (3.) Matplotlib for data visualization; (4.) Version control using Git.
 
-• Showcased at (off-site): IEEE Xplore (ongoing).
+• Showcased at (off-site): IEEE Xplore
